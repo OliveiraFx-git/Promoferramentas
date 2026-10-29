@@ -1,0 +1,17 @@
+SITE DE PROMOÇÕES DE FERRAMENTAS — OLIVEIRAFX
+
+COMO ABRIR
+1. Extraia o ZIP inteiro para uma pasta.
+2. Abra index.html no navegador.
+3. Mantenha a pasta imagens junto dos arquivos HTML, CSS e JS.
+
+VÍDEO DO CELULAR
+Coloque seu vídeo MP4 na pasta imagens e nomeie-o exatamente:
+video-grupo.mp4
+O vídeo foi configurado para autoplay, mudo, loop e sem controles. Navegadores podem limitar autoplay em algumas condições.
+
+IMPORTANTE
+- O contador de vagas e as notificações são simulações visuais, não indicam vagas reais nem entradas confirmadas no grupo.
+- As fontes Google Fonts precisam de internet; se estiver offline, será usada uma fonte alternativa.
+- O PSD e a imagem completa de referência não são necessários para o site funcionar; a imagem de referência está incluída apenas para consulta.
+- Para publicar, envie todos os arquivos mantendo a mesma estrutura de pastas.
